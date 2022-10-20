@@ -19,4 +19,4 @@ Link SU VPS - Google Colab: Soon..
 
 Preview:
 
-!(https://bit.ly/3TDpmmq)
+![Preview](https://bit.ly/3TDpmmq)
